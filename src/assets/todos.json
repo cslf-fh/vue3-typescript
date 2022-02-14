@@ -1,0 +1,17 @@
+{
+  "morning": [
+    { "id": 1, "label": "a", "finished": false },
+    { "id": 2, "label": "b", "finished": false },
+    { "id": 3, "label": "c", "finished": false }
+  ],
+  "afternoon": [
+    { "id": 1, "label": "d", "finished": false },
+    { "id": 2, "label": "e", "finished": false }
+  ],
+  "night": [
+    { "id": 1, "label": "f", "finished": false },
+    { "id": 2, "label": "g", "finished": false },
+    { "id": 3, "label": "h", "finished": false },
+    { "id": 4, "label": "i", "finished": false }
+  ]
+}
