@@ -13,6 +13,8 @@ const addTodo = () => {
   store.addTodo(label.value);
   label.value = '';
 };
+
+store.getTodos;
 </script>
 
 <template>
